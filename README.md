@@ -1,5 +1,5 @@
 ## flutter_movie_app
-# functions
+### functions
 - short movie UI page
 - authentication page
  - firebase authentication
